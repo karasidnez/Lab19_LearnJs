@@ -78,10 +78,27 @@
 // }
 // sayHelloy("ЫЫЫЫ",100)
 
-function calculateDiscount(price, dis = 10) {
-  discount = (price / 100) * dis;
-  price -= discount;
-  console.log(price);
-  return price;
-}
-calculateDiscount(100);
+// function calculateDiscount(price, dis = 10) {
+//   discount = (price / 100) * dis;
+//   price -= discount;
+//   console.log(price);
+//   return price;
+// }
+// calculateDiscount(100);
+
+// let numberArr = [1,2,3,4,5];
+// console.log(numbersARrr);
+
+// let colors = ["a","b","c"];
+// console.log(colors[0]);
+// console.log(colors[colors.length-1]);
+// console.log(colors);
+
+// let students = ["Ы","ЫЫ","ЫЫЫ"];
+// students.pop();
+// console.log(students)
+
+// let city = ["Москва","Волжский","Волгоград"];
+// if (city.includes("Волжский")){
+//     console.log(city.indexOf("Волжский"));
+// }
