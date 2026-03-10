@@ -102,3 +102,38 @@
 // if (city.includes("Волжский")){
 //     console.log(city.indexOf("Волжский"));
 // }
+
+// let user2 = {
+//     name: "Ivan",
+//     age: 21,
+//     isStudent: true,
+// };
+
+// console.log(user2);
+
+// let book = {
+//   title: "ЫЫЫ",
+//   autgor: "ЫЫЫЕ",
+//   year: 1999,
+// };
+// console.log(book);
+// book.year = 2000;
+// console.log(book);
+
+// let car = {
+//     brand: "ЫЫе",
+//     year: 1999,
+//     getInfo: function(){
+//         console.log(brand,year)
+// },
+// };
+
+// car.getInfo();
+
+let product = {
+  name: "ЫЫЫ",
+  count: 1000,
+};
+for (let key in product) {
+  console.log(key + ":" + product[key]);
+}
