@@ -55,4 +55,33 @@
 //   }
 // }
 
+// function sum(a, b){
+//     return a + b;
+// }
 
+// console.log(sum(3, 5));
+
+// function multiply(a, b){
+//     return a * b;
+// }
+
+// console.log(multiply(9, 10));
+
+// function sayHelloy(name) {
+//     console.log(`Hello, ${name}`);
+// }
+// sayHelloy("ЫЫЫЫ")
+
+// function sayHelloy(name, age) {
+//     console.log(name);
+//     console.log(age);
+// }
+// sayHelloy("ЫЫЫЫ",100)
+
+function calculateDiscount(price, dis = 10) {
+  discount = (price / 100) * dis;
+  price -= discount;
+  console.log(price);
+  return price;
+}
+calculateDiscount(100);
