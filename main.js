@@ -137,3 +137,4 @@ let product = {
 for (let key in product) {
   console.log(key + ":" + product[key]);
 }
+// Это строка ради коммита
