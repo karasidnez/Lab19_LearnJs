@@ -21,8 +21,8 @@
   - index.html
   - main.js
   - img/
-    	- gitPushLab19_Timonin.png
-    	- step5_loopsLab19_Timonin.png
-    	- step6_functionsLab19_Timonin.png
-    	- step7_arraysLab19_Timonin.png
-    	- step8_objectsLab19_Timonin.png
+    - gitPushLab19_Timonin.png
+    - step5_loopsLab19_Timonin.png
+    - step6_functionsLab19_Timonin.png
+    - step7_arraysLab19_Timonin.png
+    - step8_objectsLab19_Timonin.png
